@@ -1,5 +1,10 @@
 package com.hjp.cloud;
 
+/**
+ * 
+ * @author hjp
+ *
+ */
 public class Person {
 
 	private Integer id;
